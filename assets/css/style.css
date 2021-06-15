@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6; /* Set bg color of body to light greyish green */
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    background-color: #2a607c; /* Set color of bg to dark moderate blue */
+    color: #ffffff; /* Set color of text to white */
 }
 
 .header h1 {
@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #d9dcd6; /* Set bg color of letters "seo" of logo to light greyish green */
 }
 
 .header nav {
@@ -49,7 +49,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #ffffff; /* Set color of navigation links to white */
     text-decoration: none;
 }
 
@@ -90,22 +90,22 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2589bd; /* Set color of bg to french blue */
 }
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /* Set color of text to white */
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /* Set color of text to white */
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /* Set color of text to white */
 }
 
 .benefit-lead h3 {
@@ -146,17 +146,16 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+    background-color: #0072bb; /* Set color of bg to french blue */
+    color: #ffffff; /* Set color of text to white */
 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #0072bb; /* Set color of bg to french blue */
+    color: #ffffff; /* Set color of text to white */
 }
 
 .social-media-marketing {
@@ -164,8 +163,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #0072bb; /* Set color of bg to french blue */
+    color: #ffffff; /* Set color of text to white */
 }
 
 .search-engine-optimization img {
