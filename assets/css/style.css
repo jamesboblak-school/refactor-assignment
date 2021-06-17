@@ -4,10 +4,7 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6; /* Set bg color of body to light greyish green */
-}
-
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +12,22 @@ body {
     color: #ffffff; /* Set color of text to white */
 }
 
+/* Elements */
+
+body {
+    background-color: #d9dcd6; /* Set bg color of body to light greyish green */
+}
+
+a {
+    color: #ffffff; /* Set color of navigation links to white */
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Classes - Header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,14 +37,8 @@ body {
     color: #d9dcd6; /* Set bg color of letters "seo" of logo to light greyish green */
 }
 
+/* Classes Nav */
 .header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -48,15 +55,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff; /* Set color of navigation links to white */
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Main stage */
 .hero {
     height: 800px;
     width: 100%;
@@ -92,7 +91,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd; /* Set color of bg to french blue */
 }
-
+/* Classes Benefits */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff; /* Set color of text to white */
@@ -148,6 +147,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb; /* Set color of bg to french blue */
     color: #ffffff; /* Set color of text to white */
+}
 
 .online-reputation-management {
     margin-bottom: 20px;
