@@ -1,4 +1,5 @@
 # Horiseon - Search Engine Optimization website
+![screenshot of header](images/Header.png)
 ## SEO
 ## Online Reputation Management
 ## Social Media Marketing
