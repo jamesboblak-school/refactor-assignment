@@ -1,4 +1,6 @@
 # Horiseon - Search Engine Optimization website
+[Click here to load refactored website into your browser](https://jamesboblak.github.io/refactor-assignment/)
+
 ![screenshot of header](images/Header.png)
 Welcome to the Horiseon website.  This is a welcoming landing place that explains the priciples and benefits the company offers.  Click on any of the links in the navigation bar at the top of the page to go directly to the corresponding breakout section of the page.
 
